@@ -1,2 +1,2 @@
 # rust-system-programming
-This repo tracks my learning systems programming with Rust!
+This repo is to store my code while I am learning systems programming with Rust!
